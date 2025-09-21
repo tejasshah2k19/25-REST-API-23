@@ -2,3 +2,11 @@ REST API -> product >
 
 
 	add prodcut :  POST : /products 
+	
+	
+filter -> 
+			1)	class implements Filter 
+			2)  doFilter 
+			3)  @Component
+	
+-----------------------------------------------------------------		
