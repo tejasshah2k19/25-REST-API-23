@@ -47,6 +47,7 @@ public class TokenFilter implements Filter {
 		} else {
 			// error msg
 			System.out.println("UNAUTHENTICATED USER FOUND");
+			
 		}
 	}
 }

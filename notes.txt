@@ -10,3 +10,35 @@ filter ->
 			3)  @Component
 	
 -----------------------------------------------------------------		
+
+JWT -> token -> 
+
+	1) jwt lib / dep / jar -> pom.xml 
+	2) class -> util ->  generate , validate , parse 
+	
+	token -> token data -> expired -> issue at -> 
+	
+	validation -> expired -> token data -> 
+	
+-----------------------------------------------------------------		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
